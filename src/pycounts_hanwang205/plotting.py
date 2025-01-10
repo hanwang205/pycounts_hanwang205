@@ -17,8 +17,8 @@ def plot_words(word_counts, n=10):
 
     Examples
     --------
-    >>> from pycounts.pycounts import count_words
-    >>> from pycounts.plotting import plot_words
+    >>> from pycounts_hanwang205.pycounts_hanwang205 import count_words
+    >>> from pycounts_hanwang205.plotting import plot_words
     >>> counts = count_words("text.txt")
     >>> plot_words(counts)
     """
